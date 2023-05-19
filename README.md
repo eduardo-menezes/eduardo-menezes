@@ -12,8 +12,6 @@
   <img align="center" alt="julia" src="https://img.shields.io/badge/julia-gray?style=flat-square&logo=julia&logoColor=blue" />
   <img align="center" alt="postgres" src="https://img.shields.io/badge/postgres-lightgray?style=flat-square&logo=postgresql&logoColor=blue" />
   <img align="center" alt="gcp" src="https://img.shields.io/badge/GCP-lightgray?style=flat-square&logo=googlecloud&logoColor=blue" />
-  <img align="center" alt="googleanalytics" src="https://img.shields.io/badge/google%20analytics-lightgray?style=flat-square&logo=googleanalytics&logoColor=yellow" />
-  <img align="center" alt="githubactions" src="https://img.shields.io/badge/github%20actions-lightgray?style=flat-square&logo=githubactions&logoColor=blue" />
   <img align="center" alt="airflow" src="https://img.shields.io/badge/airflow-blue?style=flat-square&logo=apacheairflow&logoColor=yellow" />
   <img align="center" alt="terraform" src="https://img.shields.io/badge/terraform-blue?style=flat-square&logo=terraform" />
   <img align="center" alt="kubernetes" src="https://img.shields.io/badge/kubernetes-gray?style=flat-square&logo=kubernetes&logoColor=blue" />
