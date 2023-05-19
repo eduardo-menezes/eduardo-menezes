@@ -1,7 +1,5 @@
-## Hi! I'm Eduardo 🖐️
+## Hi! I'm Eduardo 🖐️ [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]([https://sujeitoprogramador.com](https://www.linkedin.com/in/eduardooliveiramenezes/))
 > Data Engineer currently working with CRM and Google Measurement Protocol
-
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]([https://sujeitoprogramador.com](https://www.linkedin.com/in/eduardooliveiramenezes/))
 
 ![Edu GitHub stats](https://github-readme-stats.vercel.app/api?username=eduardo-menezes&show_icons=true&theme=dracula&count_private=true)
 
