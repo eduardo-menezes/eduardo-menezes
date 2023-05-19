@@ -7,6 +7,7 @@
 ## Tecnologias que eu uso no meu dia
 
 <div style="display: inline_block">
+  <img align="center" alt="airbyte" src="https://img.shields.io/badge/airbyte-gray?style=flat-square&logo=airbyte&logoColor=blue" />
   <img align="center" alt="python" src="https://img.shields.io/badge/python-yellow?style=flat-square&logo=python&logoColor=blue" />
   <img align="center" alt="julia" src="https://img.shields.io/badge/julia-gray?style=flat-square&logo=julia&logoColor=blue" />
   <img align="center" alt="postgres" src="https://img.shields.io/badge/postgres-lightgray?style=flat-square&logo=postgresql&logoColor=blue" />
