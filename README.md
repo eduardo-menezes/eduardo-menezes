@@ -7,15 +7,14 @@
 ## Tecnologias que eu uso no meu dia
 
 <div style="display: inline_block">
-  <img align="center" alt="python" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" />
-  <img align="center" alt="flask" src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" />
-  <img align="center" alt="postgres" src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
-  <img align="center" alt="gcp" src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" />
-  <img align="center" alt="googleanalytics" src="https://img.shields.io/badge/Google%20Analytics-E37400?style=for-the-badge&logo=google%20analytics&logoColor=white" />
-  <img align="center" alt="githubactions" src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white" />
-  <img align="center" alt="airflow" src="https://img.shields.io/badge/Airflow-017CEE?style=for-the-badge&logo=Apache%20Airflow&logoColor=white" />
-  <img align="center" alt="airflow" src="https://img.shields.io/badge/terraform-blue?style=flat-square&logo=terraform" />
-  <img align="center" alt="airflow" src="https://img.shields.io/badge/docker-green?style=flat-square&logo=docker" />
-  <img align="center" alt="airflow" src="https://img.shields.io/badge/powerbi-white?style=flat-square&logo=powerbi" />
-  <img align="center" alt="airflow" src="https://img.shields.io/badge/streamlit-blue?style=flat-square&logo=streamlit" />
+  <img align="center" alt="python" src="https://img.shields.io/badge/python-yellow?style=flat-square&logo=python&logoColor=blue" />
+  <img align="center" alt="postgres" src="https://img.shields.io/badge/postgres-lightgray?style=flat-square&logo=postgresql&logoColor=blue" />
+  <img align="center" alt="gcp" src="https://img.shields.io/badge/GCP-lightgray?style=flat-square&logo=googlecloud&logoColor=blue" />
+  <img align="center" alt="googleanalytics" src="https://img.shields.io/badge/google%20analytics-lightgray?style=flat-square&logo=googleanalytics&logoColor=yellow" />
+  <img align="center" alt="githubactions" src="https://img.shields.io/badge/github%20actions-lightgray?style=flat-square&logo=githubactions&logoColor=blue" />
+  <img align="center" alt="airflow" src="https://img.shields.io/badge/airflow-blue?style=flat-square&logo=apacheairflow&logoColor=yellow" />
+  <img align="center" alt="terraform" src="https://img.shields.io/badge/terraform-blue?style=flat-square&logo=terraform" />
+  <img align="center" alt="docker" src="https://img.shields.io/badge/docker-green?style=flat-square&logo=docker" />
+  <img align="center" alt="powerbi" src="https://img.shields.io/badge/powerbi-white?style=flat-square&logo=powerbi" />
+  <img align="center" alt="streamlit" src="https://img.shields.io/badge/streamlit-blue?style=flat-square&logo=streamlit" />
 </div><br/>
