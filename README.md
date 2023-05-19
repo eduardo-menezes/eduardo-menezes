@@ -14,4 +14,8 @@
   <img align="center" alt="googleanalytics" src="https://img.shields.io/badge/Google%20Analytics-E37400?style=for-the-badge&logo=google%20analytics&logoColor=white" />
   <img align="center" alt="githubactions" src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white" />
   <img align="center" alt="airflow" src="https://img.shields.io/badge/Airflow-017CEE?style=for-the-badge&logo=Apache%20Airflow&logoColor=white" />
+  <img align="center" alt="airflow" src="https://img.shields.io/badge/terraform-blue?style=flat-square&logo=terraform" />
+  <img align="center" alt="airflow" src="https://img.shields.io/badge/docker-green?style=flat-square&logo=docker" />
+  <img align="center" alt="airflow" src="https://img.shields.io/badge/powerbi-white?style=flat-square&logo=powerbi" />
+  <img align="center" alt="airflow" src="https://img.shields.io/badge/streamlit-blue?style=flat-square&logo=streamlit" />
 </div><br/>
