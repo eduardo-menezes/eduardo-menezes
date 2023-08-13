@@ -1,5 +1,5 @@
 ## Hi! I'm Eduardo 🖐️ [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]([https://sujeitoprogramador.com](https://www.linkedin.com/in/eduardooliveiramenezes/))
-> Data Engineer currently working in a Marketing team integrating Hubspot data and Google Measurement Protocol
+> Data engineer building infrastructure with terraform, orquestrating pipelines with airflow, reporting marketing and sales data with power bi, building web apps with flask and integrating google analytics with hubspot through pyspark and docker.
 
 ![Edu GitHub stats](https://github-readme-stats.vercel.app/api?username=eduardo-menezes&show_icons=true&theme=dracula&count_private=true)
 
