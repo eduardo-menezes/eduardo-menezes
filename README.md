@@ -1,5 +1,5 @@
 ## Hi! I'm Eduardo 🖐️ [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]([https://sujeitoprogramador.com](https://www.linkedin.com/in/eduardooliveiramenezes/))
-> Data engineer building infrastructure with terraform, orquestrating pipelines with airflow, reporting marketing and sales data with power bi, building web apps with flask and integrating google analytics with hubspot through pyspark, docker and kubernetes.
+> Data Engineer building infrastructure with Terraform, orquestrating pipelines with Airflow, reporting marketing and sales data with PowerBI, building web apps with Flask and integrating GA4 with Hubspot through Pyspark, Docker and Kubernetes.
 
 ![Edu GitHub stats](https://github-readme-stats.vercel.app/api?username=eduardo-menezes&show_icons=true&theme=dracula&count_private=true)
 
