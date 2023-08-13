@@ -16,7 +16,7 @@
   <img align="center" alt="docker" src="https://img.shields.io/badge/docker-gray?style=flat-square&logo=docker&logoColor=blue" />
   <img align="center" alt="pyspark" src="https://img.shields.io/badge/spark-gray?style=flat-square&logo=apachespark&logoColor=blue" />
   <img align="center" alt="pandas" src="https://img.shields.io/badge/pandas-gray?style=flat-square&logo=pandas&logoColor=blue" />
-  <img align="center" alt="terraform" src="https://img.shields.io/badge/terraform-blue?style=flat-square&logo=terraform" />
-  <img align="center" alt="powerbi" src="https://img.shields.io/badge/powerbi-white?style=flat-square&logo=powerbi" />
-  <img align="center" alt="streamlit" src="https://img.shields.io/badge/streamlit-blue?style=flat-square&logo=streamlit" />
+  <img align="center" alt="terraform" src="https://img.shields.io/badge/terraform-blue?style=flat-square&logo=terraform&logoColor=blue" />
+  <img align="center" alt="powerbi" src="https://img.shields.io/badge/powerbi-white?style=flat-square&logo=powerbi&logoColor=blue" />
+  <img align="center" alt="streamlit" src="https://img.shields.io/badge/streamlit-blue?style=flat-square&logo=streamlit&logoColor=blue" />
 </div><br/>
