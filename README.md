@@ -19,4 +19,5 @@
   <img align="center" alt="terraform" src="https://img.shields.io/badge/terraform-gray?style=flat-square&logo=terraform&logoColor=blue" />
   <img align="center" alt="powerbi" src="https://img.shields.io/badge/powerbi-gray?style=flat-square&logo=powerbi&logoColor=blue" />
   <img align="center" alt="streamlit" src="https://img.shields.io/badge/streamlit-gray?style=flat-square&logo=streamlit&logoColor=blue" />
+  <img align="center" alt="snowflake" src="https://img.shields.io/badge/snowflake-gray?style=flat-square&logo=snowflake&logoColor=blue" />
 </div><br/>
